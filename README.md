@@ -1,3 +1,4 @@
+# Description
 This is an arcade style shoot 'em up game written in Java using JavaFX. 
 
 ## Additional Library Needed to Run This Program
