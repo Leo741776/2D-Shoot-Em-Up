@@ -31,5 +31,5 @@ Salt: increases fire rate <br> Pepper: spawns extra pizza slices which shoot alo
 
 ## Screenshot
 
-<img width="754" height="1017" alt="Image" src="https://github.com/user-attachments/assets/0ac72475-05c2-4035-865f-ccfcd4198ad8" />
+<img width="754" height="1017" alt="Image" src="https://github.com/user-attachments/assets/bb967793-b28a-4091-89cf-4f99bca818fe" />
 
